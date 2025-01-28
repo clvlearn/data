@@ -4,4 +4,6 @@ Docenten kunnen de antwoorden editen en het correct houden, alle antwoorden en v
 Het is natuurlijk niet de bedoeling om hier naar de antwoorden te gaan kijken, daar help je jezelf ook niet mee ;-) 
 <br>
 <br>
-Powered by Yixboost NL - Licenced under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
+Powered by Yixboost NL - Licenced under CC BY-NC-ND 4.0
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
