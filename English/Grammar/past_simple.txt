@@ -1,50 +1,50 @@
-I #went# to the park yesterday.
-She #bought# a new dress last week.
-They #played# football in the afternoon.
-He #saw# a movie last night.
-We #visited# our grandparents last summer.
-You #ate# a big breakfast this morning.
-She #wrote# a letter to her friend.
-He #drank# all the milk from the fridge.
-The cat #chased# a mouse in the garden.
-I #studied# for my exams last weekend.
-We #watched# a documentary on TV.
-He #worked# late at the office last Friday.
-They #ran# a marathon in the city.
-She #lost# her keys on the way home.
-I #found# a coin on the ground.
-He #read# an interesting book last month.
-The teacher #gave# us homework yesterday.
-She #sang# beautifully at the concert.
-I #helped# my mom with the dishes.
-We #cleaned# the house together.
-They #caught# a big fish in the lake.
-I #met# my friend at the café.
-She #spoke# to the manager about her job.
-We #built# a sandcastle on the beach.
-He #fell# off his bike but wasn’t hurt.
-I #cooked# pasta for dinner last night.
-She #danced# at the party until midnight.
-We #enjoyed# the play at the theater.
-He #forgot# to bring his umbrella.
-They #broke# the vase accidentally.
-I #slept# very well last night.
-She #left# her bag in the car.
-He #taught# English at the school.
-We #sold# our old car last year.
-They #flew# to Paris for their honeymoon.
-She #cried# during the sad movie.
-I #drew# a picture of a landscape.
-He #fixed# the broken chair.
-They #stayed# at a hotel by the beach.
-We #talked# about our plans for the weekend.
-She #opened# the door for the delivery man.
-I #forgot# to water the plants.
-He #drove# to the supermarket yesterday.
-We #took# a taxi to the airport.
-They #paid# for the meal at the restaurant.
-She #threw# the ball to her dog.
-I #ran# to catch the bus this morning.
-We #enjoyed# the sunny weather.
-He #brought# flowers for his mother.
-She #read# the instructions carefully before starting.
+I #went# to the park yesterday|go  
+She #bought# a new dress last week|buy  
+They #played# football in the afternoon|play  
+He #saw# a movie last night|see  
+We #visited# our grandparents last summer|visit  
+You #ate# a big breakfast this morning|eat  
+She #wrote# a letter to her friend|write  
+He #drank# all the milk from the fridge|drink  
+The cat #chased# a mouse in the garden|chase  
+I #studied# for my exams last weekend|study  
+We #watched# a documentary on TV|watch  
+He #worked# late at the office last Friday|work  
+They #ran# a marathon in the city|run  
+She #lost# her keys on the way home|lose  
+I #found# a coin on the ground|find  
+He #read# an interesting book last month|read  
+The teacher #gave# us homework yesterday|give  
+She #sang# beautifully at the concert|sing  
+I #helped# my mom with the dishes|help  
+We #cleaned# the house together|clean  
+They #caught# a big fish in the lake|catch  
+I #met# my friend at the café|meet  
+She #spoke# to the manager about her job|speak  
+We #built# a sandcastle on the beach|build  
+He #fell# off his bike but wasn’t hurt|fall  
+I #cooked# pasta for dinner last night|cook  
+She #danced# at the party until midnight|dance  
+We #enjoyed# the play at the theater|enjoy  
+He #forgot# to bring his umbrella|forget  
+They #broke# the vase accidentally|break  
+I #slept# very well last night|sleep  
+She #left# her bag in the car|leave  
+He #taught# English at the school|teach  
+We #sold# our old car last year|sell  
+They #flew# to Paris for their honeymoon|fly  
+She #cried# during the sad movie|cry  
+I #drew# a picture of a landscape|draw  
+He #fixed# the broken chair|fix  
+They #stayed# at a hotel by the beach|stay  
+We #talked# about our plans for the weekend|talk  
+She #opened# the door for the delivery man|open  
+I #forgot# to water the plants|forget  
+He #drove# to the supermarket yesterday|drive  
+We #took# a taxi to the airport|take  
+They #paid# for the meal at the restaurant|pay  
+She #threw# the ball to her dog|throw  
+I #ran# to catch the bus this morning|run  
+We #enjoyed# the sunny weather|enjoy  
+He #brought# flowers for his mother|bring  
+She #read# the instructions carefully before starting|read  
