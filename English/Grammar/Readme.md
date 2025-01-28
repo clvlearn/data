@@ -6,4 +6,6 @@
  - Irregular Verbs Mavo 2
  - Past Simple Grammar
 
-Powered by Yixboost NL
+Powered by Yixboost NL - Licenced under CC BY-NC-ND 4.0
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
